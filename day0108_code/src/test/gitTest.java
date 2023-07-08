@@ -11,5 +11,6 @@ public class gitTest {
         System.out.print("hello git5-hotfix2");
         System.out.print("hello git5-hotfix3");
         System.out.print("hello push-test-hotfix3");
+        System.out.print("hello push-test-hotfix3 in github");
     }
 }
